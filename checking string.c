@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <conio.h>
-
+/*cheking string
 
 int main()
 {
